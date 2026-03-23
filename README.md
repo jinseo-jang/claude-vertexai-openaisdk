@@ -1,6 +1,6 @@
 # Vertex AI Claude to OpenAI SDK Proxy
 
-이 저장소는 기존 애플리케이션들에서 널리 쓰이는 표준 **OpenAI SDK**를 전혀 수정하지 않고, Google Cloud Vertex AI 환경에 배포된 **Anthropic Claude 모델(예: Claude Opus 4.6)**을 자유롭게 호출할 수 있도록 도와주는 중계 서버(라우터) 샘플 코드입니다.
+이 저장소는 기존 애플리케이션들에서 널리 쓰이는 표준 **OpenAI SDK**를 전혀 수정하지 않고, Google Cloud Vertex AI 환경에 배포된 **Anthropic Claude 모델(예: Claude Opus 4.6)** 을 자유롭게 호출할 수 있도록 도와주는 중계 서버(라우터) 샘플 코드입니다.
 
 ## 목적 및 배경
 
